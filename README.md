@@ -1,6 +1,7 @@
 # PostgreSQLpatikaDev
 ## HomeWork-1
 <hr>
+
 ### 1-Film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 ### 2-Film tablosunda bulunan tüm sütunlardaki verileri film uzunluğu (length) 60 dan büyük VE 75 ten küçük olma koşullarıyla sıralayınız.
 ### 3-Film tablosunda bulunan tüm sütunlardaki verileri rental_rate 0.99 VE replacement_cost 12.99 VEYA 28.99 olma koşullarıyla sıralayınız.
@@ -48,7 +49,7 @@
 ### 4-film tablosunda bulunan tüm sütunlardaki verilerden title 'C' karakteri ile başlayan ve uzunluğu (length) 90 dan büyük olan ve rental_rate 2.99 olan verileri sıralayınız.
 
 
-## HomeWork-3
+## HomeWork-4
 <hr>
 
 ### 1- film tablosunda bulunan replacement_cost sütununda bulunan birbirinden farklı değerleri sıralayınız.
